@@ -1,18 +1,26 @@
-# 💫 About Me:
-* 🌱 Mein technologischer Fokus liegt stark auf **C#, .NET 10 Minimal APIs** und **Angular**.<br>* ⚙️ Neben der Softwareentwicklung schraube ich gerne an Hardware-Projekten (ESP32) und manage meinen eigenen Raspberry Pi 5 Server mit Docker Compose.
+# Hallo, ich bin Timbo! 👋
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/slash.9779) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tim.erf1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TimLutty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lutimde@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Timboo22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Timboo22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Timboo22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Ich bin Softwareentwickler mit einer Leidenschaft für moderne Webtechnologien, Embedded-Systeme und kollaborative Tools.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Timboo22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Woran ich aktuell arbeite:
+Ich entwickle gerade **[SomeShopping](https://github.com/Timboo22/SomeShopping)** – eine moderne, kollaborative Einkaufsliste mit Echtzeit-Synchronisation via Server-Sent Events (SSE). 
+
+- **Frontend**: React, TypeScript, Material-UI
+- **Backend**: .NET 10 (ASP.NET Core Minimal APIs)
+- **Datenbank**: PostgreSQL
+
+---
+
+## 📂 Meine weiteren Projekte:
+- **[Sanoa](https://github.com/Timboo22/Sanoa)** – C# Projekt.
+- **[neustart](https://github.com/Timboo22/neustart)** – C# Projekt.
+- **[MQTT-Node-Red-Projekt-f-r-Schule](https://github.com/Timboo22/MQTT-Node-Red-Projekt-f-r-Schule)** – IoT-Projekt für die Schule in C++.
+
+---
+
+## ⚡ Tech Stack & Skills:
+- **Sprachen**: C#, TypeScript, JavaScript, C++, SQL
+- **Frameworks**: .NET Core, React, ASP.NET Core
+- **Tools & DBs**: PostgreSQL, Docker, Git, Node.Red, MQTT
